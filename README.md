@@ -1,6 +1,6 @@
-# OOP with Python — Advent 2026, Assignment 2
+# OOP with Python — Advent 2026, Assignment 3
 
-**Student:** _<your name>_ · **Reg. no.:** _<your registration number>_ · **Programme:** MSCS / MSDS
+**Student:** _<Ariho_Justus>_ · **Reg. no.:** _<S25M19/043>_ · **Programme:** MSDS
 
 Two mini-projects: a weather client built directly on the HTTP APIs, and an extensible
 Uganda tax engine. Reusable logic lives in `src/`, each mini-project has one notebook, and
