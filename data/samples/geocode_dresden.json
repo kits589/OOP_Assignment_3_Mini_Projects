@@ -1,0 +1,119 @@
+{
+  "_recorded": {
+    "url": "https://geocoding-api.open-meteo.com/v1/search?name=Dresden&count=5&language=en&format=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 952.6,
+    "recorded_at": "2026-10-10T09:01:19Z"
+  },
+  "body": {
+    "results": [
+      {
+        "id": 2935022,
+        "name": "Dresden",
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "elevation": 116.0,
+        "feature_code": "PPLA",
+        "country_code": "DE",
+        "admin1_id": 2842566,
+        "admin3_id": 2935020,
+        "admin4_id": 6551127,
+        "timezone": "Europe/Berlin",
+        "population": 556227,
+        "country_id": 2921044,
+        "country": "Germany",
+        "admin1": "Saxony",
+        "admin3": "Kreisfreie Stadt Dresden",
+        "admin4": "Dresden"
+      },
+      {
+        "id": 4619013,
+        "name": "Dresden",
+        "latitude": 36.29145,
+        "longitude": -88.70811,
+        "elevation": 130.0,
+        "feature_code": "PPLA2",
+        "country_code": "US",
+        "admin1_id": 4662168,
+        "admin2_id": 4666265,
+        "timezone": "America/Chicago",
+        "population": 2898,
+        "postcodes": [
+          "38225"
+        ],
+        "country_id": 6252001,
+        "country": "United States",
+        "admin1": "Tennessee",
+        "admin2": "Weakley"
+      },
+      {
+        "id": 5152291,
+        "name": "Dresden",
+        "latitude": 40.12146,
+        "longitude": -82.01069,
+        "elevation": 226.0,
+        "feature_code": "PPL",
+        "country_code": "US",
+        "admin1_id": 5165418,
+        "admin2_id": 4519300,
+        "admin3_id": 5159131,
+        "timezone": "America/New_York",
+        "population": 1706,
+        "postcodes": [
+          "43821"
+        ],
+        "country_id": 6252001,
+        "country": "United States",
+        "admin1": "Ohio",
+        "admin2": "Muskingum",
+        "admin3": "Jefferson Township"
+      },
+      {
+        "id": 5115302,
+        "name": "Dresden",
+        "latitude": 42.68396,
+        "longitude": -76.9558,
+        "elevation": 155.0,
+        "feature_code": "PPL",
+        "country_code": "US",
+        "admin1_id": 5128638,
+        "admin2_id": 5145190,
+        "admin3_id": 5141215,
+        "timezone": "America/New_York",
+        "population": 300,
+        "postcodes": [
+          "14441"
+        ],
+        "country_id": 6252001,
+        "country": "United States",
+        "admin1": "New York",
+        "admin2": "Yates",
+        "admin3": "Town of Torrey"
+      },
+      {
+        "id": 5445306,
+        "name": "Dresden",
+        "latitude": 39.62417,
+        "longitude": -100.42236,
+        "elevation": 833.0,
+        "feature_code": "PPL",
+        "country_code": "US",
+        "admin1_id": 4273857,
+        "admin2_id": 5445268,
+        "admin3_id": 5445307,
+        "timezone": "America/Chicago",
+        "population": 41,
+        "postcodes": [
+          "67635"
+        ],
+        "country_id": 6252001,
+        "country": "United States",
+        "admin1": "Kansas",
+        "admin2": "Decatur",
+        "admin3": "Dresden Township"
+      }
+    ],
+    "generationtime_ms": 0.46908855
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_recorded": {
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=0.05611&longitude=32.47972&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=auto&forecast_days=7",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 1341.5,
+    "recorded_at": "2026-10-10T09:01:30Z"
+  },
+  "body": {
+    "latitude": 0.10544816,
+    "longitude": 32.478565,
+    "generationtime_ms": 90.38341045379639,
+    "utc_offset_seconds": 10800,
+    "timezone": "Africa/Kampala",
+    "timezone_abbreviation": "GMT+3",
+    "elevation": 1156.0,
+    "daily_units": {
+      "time": "iso8601",
+      "weather_code": "wmo code",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C",
+      "precipitation_sum": "mm",
+      "wind_speed_10m_max": "km/h"
+    },
+    "daily": {
+      "time": [
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "weather_code": [
+        95,
+        95,
+        81,
+        51,
+        51,
+        51,
+        53
+      ],
+      "temperature_2m_max": [
+        24.8,
+        24.9,
+        24.6,
+        25.8,
+        26.1,
+        25.1,
+        24.6
+      ],
+      "temperature_2m_min": [
+        19.1,
+        19.3,
+        19.3,
+        18.7,
+        19.8,
+        20.3,
+        20.2
+      ],
+      "precipitation_sum": [
+        11.5,
+        20.9,
+        5.5,
+        0.3,
+        0.3,
+        0.6,
+        4.8
+      ],
+      "wind_speed_10m_max": [
+        11.7,
+        16.0,
+        17.0,
+        11.1,
+        12.3,
+        15.2,
+        13.7
+      ]
+    }
+  }
+}

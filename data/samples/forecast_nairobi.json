@@ -1,0 +1,82 @@
+{
+  "_recorded": {
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=-1.28333&longitude=36.81667&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=auto&forecast_days=7",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 1253.0,
+    "recorded_at": "2026-10-10T09:01:33Z"
+  },
+  "body": {
+    "latitude": -1.3005272,
+    "longitude": 36.824646,
+    "generationtime_ms": 69.9840784072876,
+    "utc_offset_seconds": 10800,
+    "timezone": "Africa/Nairobi",
+    "timezone_abbreviation": "GMT+3",
+    "elevation": 1677.0,
+    "daily_units": {
+      "time": "iso8601",
+      "weather_code": "wmo code",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C",
+      "precipitation_sum": "mm",
+      "wind_speed_10m_max": "km/h"
+    },
+    "daily": {
+      "time": [
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "weather_code": [
+        80,
+        95,
+        51,
+        3,
+        81,
+        81,
+        53
+      ],
+      "temperature_2m_max": [
+        24.5,
+        26.5,
+        27.0,
+        26.8,
+        27.6,
+        22.2,
+        25.3
+      ],
+      "temperature_2m_min": [
+        15.9,
+        14.9,
+        14.4,
+        13.2,
+        13.7,
+        16.1,
+        15.9
+      ],
+      "precipitation_sum": [
+        15.1,
+        22.3,
+        0.1,
+        0.0,
+        19.9,
+        32.1,
+        1.7
+      ],
+      "wind_speed_10m_max": [
+        20.0,
+        15.6,
+        15.7,
+        14.5,
+        11.7,
+        9.9,
+        11.2
+      ]
+    }
+  }
+}

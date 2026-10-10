@@ -1,0 +1,12 @@
+{
+  "_recorded": {
+    "url": "https://geocoding-api.open-meteo.com/v1/search?name=Zzzqqxyznowhere&count=5&language=en&format=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 1045.6,
+    "recorded_at": "2026-10-10T09:01:26Z"
+  },
+  "body": {
+    "generationtime_ms": 0.54967403
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_recorded": {
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=999&longitude=32.5&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=auto",
+    "status": 400,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 1088.0,
+    "recorded_at": "2026-10-10T09:01:34Z"
+  },
+  "body": {
+    "reason": "Latitude must be in range of -90 to 90°. Given: 999.0.",
+    "error": true
+  }
+}

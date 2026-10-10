@@ -1,0 +1,91 @@
+{
+  "_recorded": {
+    "url": "https://geocoding-api.open-meteo.com/v1/search?name=Nairobi&count=5&language=en&format=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 885.4,
+    "recorded_at": "2026-10-10T09:01:20Z"
+  },
+  "body": {
+    "results": [
+      {
+        "id": 184745,
+        "name": "Nairobi",
+        "latitude": -1.28333,
+        "longitude": 36.81667,
+        "elevation": 1684.0,
+        "feature_code": "PPLC",
+        "country_code": "KE",
+        "admin1_id": 184742,
+        "timezone": "Africa/Nairobi",
+        "population": 4397073,
+        "country_id": 192950,
+        "country": "Kenya",
+        "admin1": "Nairobi County"
+      },
+      {
+        "id": 152020,
+        "name": "Nairobi",
+        "latitude": -4.95,
+        "longitude": 38.93333,
+        "elevation": 133.0,
+        "feature_code": "PPL",
+        "country_code": "TZ",
+        "admin1_id": 149595,
+        "admin2_id": 9998233,
+        "admin3_id": 11006912,
+        "timezone": "Africa/Dar_es_Salaam",
+        "country_id": 149590,
+        "country": "Tanzania",
+        "admin1": "Tanga",
+        "admin2": "Mkinga District Council",
+        "admin3": "Gombero"
+      },
+      {
+        "id": 8435465,
+        "name": "Nairobi",
+        "latitude": -1.46438,
+        "longitude": 28.09918,
+        "elevation": 691.0,
+        "feature_code": "PPL",
+        "country_code": "CD",
+        "admin1_id": 206938,
+        "admin2_id": 12278075,
+        "timezone": "Africa/Lubumbashi",
+        "country_id": 203312,
+        "country": "Democratic Republic of Congo",
+        "admin1": "North Kivu",
+        "admin2": "Walikale"
+      },
+      {
+        "id": 8477788,
+        "name": "Nairobi Dam",
+        "latitude": -1.31917,
+        "longitude": 36.80009,
+        "elevation": 1682.0,
+        "feature_code": "DAM",
+        "country_code": "KE",
+        "admin1_id": 184742,
+        "timezone": "Africa/Nairobi",
+        "country_id": 192950,
+        "country": "Kenya",
+        "admin1": "Nairobi County"
+      },
+      {
+        "id": 8542948,
+        "name": "Nairobi Dam",
+        "latitude": -1.32161,
+        "longitude": 36.80369,
+        "elevation": 1690.0,
+        "feature_code": "PPLX",
+        "country_code": "KE",
+        "admin1_id": 184742,
+        "timezone": "Africa/Nairobi",
+        "country_id": 192950,
+        "country": "Kenya",
+        "admin1": "Nairobi County"
+      }
+    ],
+    "generationtime_ms": 0.9943247
+  }
+}

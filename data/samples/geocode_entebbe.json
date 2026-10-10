@@ -1,0 +1,55 @@
+{
+  "_recorded": {
+    "url": "https://geocoding-api.open-meteo.com/v1/search?name=Entebbe&count=5&language=en&format=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 906.6,
+    "recorded_at": "2026-10-10T09:01:22Z"
+  },
+  "body": {
+    "results": [
+      {
+        "id": 233508,
+        "name": "Entebbe",
+        "latitude": 0.05621,
+        "longitude": 32.47949,
+        "elevation": 1151.0,
+        "feature_code": "PPL",
+        "country_code": "UG",
+        "admin1_id": 234594,
+        "admin2_id": 448224,
+        "admin3_id": 7732225,
+        "admin4_id": 8657745,
+        "timezone": "Africa/Kampala",
+        "population": 102600,
+        "country_id": 226074,
+        "country": "Uganda",
+        "admin1": "Central Region",
+        "admin2": "Wakiso District",
+        "admin3": "Entebbe Municipality",
+        "admin4": "Division B"
+      },
+      {
+        "id": 6297374,
+        "name": "Entebbe Airport",
+        "latitude": 0.04239,
+        "longitude": 32.4435,
+        "elevation": 1152.0,
+        "feature_code": "AIRP",
+        "country_code": "UG",
+        "admin1_id": 234594,
+        "admin2_id": 448224,
+        "admin3_id": 7732225,
+        "admin4_id": 8657745,
+        "timezone": "Africa/Kampala",
+        "country_id": 226074,
+        "country": "Uganda",
+        "admin1": "Central Region",
+        "admin2": "Wakiso District",
+        "admin3": "Entebbe Municipality",
+        "admin4": "Division B"
+      }
+    ],
+    "generationtime_ms": 0.45216084
+  }
+}

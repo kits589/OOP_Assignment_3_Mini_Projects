@@ -1,0 +1,100 @@
+{
+  "_recorded": {
+    "url": "https://geocoding-api.open-meteo.com/v1/search?name=Kampala&count=5&language=en&format=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "elapsed_ms": 847.6,
+    "recorded_at": "2026-10-10T09:01:20Z"
+  },
+  "body": {
+    "results": [
+      {
+        "id": 232422,
+        "name": "Kampala",
+        "latitude": 0.31628,
+        "longitude": 32.58219,
+        "elevation": 1223.0,
+        "feature_code": "PPLC",
+        "country_code": "UG",
+        "admin1_id": 234594,
+        "admin2_id": 443339,
+        "admin3_id": 8644170,
+        "admin4_id": 8658346,
+        "timezone": "Africa/Kampala",
+        "population": 1680600,
+        "country_id": 226074,
+        "country": "Uganda",
+        "admin1": "Central Region",
+        "admin2": "Kampala District",
+        "admin3": "Kampala Capital City",
+        "admin4": "Central Division"
+      },
+      {
+        "id": 12687984,
+        "name": "Kampala",
+        "latitude": 7.32344,
+        "longitude": -7.68519,
+        "elevation": 560.0,
+        "feature_code": "PPL",
+        "country_code": "CI",
+        "admin1_id": 11153058,
+        "admin2_id": 11153165,
+        "admin3_id": 2284646,
+        "timezone": "Africa/Abidjan",
+        "population": 462,
+        "country_id": 2287781,
+        "country": "Ivory Coast",
+        "admin1": "Montagnes",
+        "admin2": "Tonkpi",
+        "admin3": "Man"
+      },
+      {
+        "id": 214583,
+        "name": "Kampala",
+        "latitude": 2.30086,
+        "longitude": 30.59269,
+        "elevation": 1647.0,
+        "feature_code": "PPL",
+        "country_code": "CD",
+        "admin1_id": 215709,
+        "admin2_id": 12278165,
+        "timezone": "Africa/Lubumbashi",
+        "country_id": 203312,
+        "country": "Democratic Republic of Congo",
+        "admin1": "Ituri",
+        "admin2": "Mahagi"
+      },
+      {
+        "id": 214584,
+        "name": "Kampala",
+        "latitude": -2.19509,
+        "longitude": 27.74864,
+        "elevation": 648.0,
+        "feature_code": "PPL",
+        "country_code": "CD",
+        "admin1_id": 205413,
+        "admin2_id": 12278023,
+        "timezone": "Africa/Lubumbashi",
+        "country_id": 203312,
+        "country": "Democratic Republic of Congo",
+        "admin1": "South Kivu",
+        "admin2": "Shabunda"
+      },
+      {
+        "id": 914306,
+        "name": "Kampala",
+        "latitude": -14.41129,
+        "longitude": 31.6098,
+        "elevation": 1053.0,
+        "feature_code": "PPL",
+        "country_code": "ZM",
+        "admin1_id": 917388,
+        "timezone": "Africa/Lusaka",
+        "country_id": 895949,
+        "country": "Zambia",
+        "admin1": "Eastern Province"
+      }
+    ],
+    "generationtime_ms": 0.24366379
+  }
+}
