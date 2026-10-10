@@ -1,4 +1,4 @@
-# OOP with Python — Advent 2026, Assignment 3
+# OOP with Python — Advent 2026, Mini Projects 2 Assignment 3
 
 **Student:** _<Ariho_Justus>_ · **Reg. no.:** _<S25M19/043>_ · **Programme:** MSDS
 
